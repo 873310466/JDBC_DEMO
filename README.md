@@ -1,2 +1,0 @@
-# JDBC_DEMO
-JDBC的小DEMO
